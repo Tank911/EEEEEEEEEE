@@ -47,4 +47,10 @@
 		"cost": 0,
 		"uniques": ["Unbuildable", "Can be purchased for [10] [Gold] [in capital]", "[-50 Happiness] [in puppeted cities]"]
     },
+    {
+		"name": "1000% Iron",
+		"culture": 0,
+		"cost": 0,
+		"uniques": ["Unbuildable", "Can be purchased for [10] [Gold] [in capital]", "[+1000]% [Iron] resource production"]
+    },
 ]
