@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Sandbox",
+        "movementType": "Land",
+        "uniques": ["Civilian"]
+    }
+]
