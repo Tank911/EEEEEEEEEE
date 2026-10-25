@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Free Great Artist",
+		"culture": 0,
+		"cost": 0,
+		"uniques": ["Unbuildable", "Can be purchased for [10] [Gold] [in capital]", "Free [Great Artist] appears"]
+	},
+ 	{
+		"name": "Free Great Scientist",
+		"culture": 0,
+		"cost": 0,
+		"uniques": ["Unbuildable", "Can be purchased for [10] [Gold] [in capital]", "Free [Great Scientist] appears"]
+  },
+	{
+		"name": "Free Great Merchant",
+		"culture": 0,
+		"cost": 0,
+		"uniques": ["Unbuildable", "Can be purchased for [10] [Gold] [in capital]", "Free [Great Merchant] appears"]
+  },
+	{
+		"name": "Free Great Engineer",
+		"culture": 0,
+		"cost": 0,
+		"uniques": ["Unbuildable", "Can be purchased for [10] [Gold] [in capital]", "Free [Great Engineer] appears"]
+  },
+	{
+		"name": "Free Great Prophet",
+		"culture": 0,
+		"cost": 0,
+		"uniques": ["Unbuildable", "Only available <when religion is enabled>", "Can be purchased for [10] [Gold] [in capital]", "Free [Great Prophet] appears"]
+  }
+]
