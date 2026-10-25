@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Sandbox Settler",
-		"unitType": "",
+		"unitType": "Sandbox",
 		"movement": 2,
 		"cost": 0,
 		"uniques": ["Founds a new city <[3] times> <after which this unit is consumed>"],
